@@ -5,6 +5,8 @@
 
   * [Cameron Bedard](cb5179.md)
 
+  * [Darren Kuo](dk4461.md)
+
   * [Fatima Farooq](ff2137.md)
 
   * [Geoffrey Guindine](gg2692.md)
@@ -18,6 +20,8 @@
   * [Joshua Cho](jsc9820.md)
 
   * [Kyle Liu](kl4402.md)
+
+  * [Leen Kharouf](lk2713.md)
 
   * [Michael Lippe](ml7238.md)
 

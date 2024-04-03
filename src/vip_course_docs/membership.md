@@ -55,6 +55,7 @@ the project and develop valuable technical skills.
 
   * Aditya Joshi
   * Cameron Bedard
+  * Darren Kuo
   * Fatima Farooq
   * Geoffrey Guindine
   * Rielle Lim
@@ -62,5 +63,6 @@ the project and develop valuable technical skills.
   * Kevin Guo
   * Joshua Cho
   * Kyle Liu
+  * Leen Kharouf
   * Pingchuan Dong
   * Xingzhi Dai
